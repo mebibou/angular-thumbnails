@@ -1,11 +1,14 @@
 {
   "name": "angular-thumbnails",
+  "version": "0.2.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/aztech-digital/angular-thumbnails.git"
   },
+  "main": "index.js",
   "dependencies": {
-    "less": "~1.6"
+    "angular": "~1.3",
+    "pdfjs-dist": "^1.7.310"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
